@@ -1,0 +1,16 @@
+F:\821\VBDunkin\VBDunkin\bin\Debug\VBDunkin.exe.config
+F:\821\VBDunkin\VBDunkin\bin\Debug\VBDunkin.exe
+F:\821\VBDunkin\VBDunkin\bin\Debug\VBDunkin.pdb
+F:\821\VBDunkin\VBDunkin\bin\Debug\VBDunkin.xml
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.vbprojResolveAssemblyReference.cache
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.frmDunkin.resources
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.Resources.resources
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.vbproj.GenerateResource.Cache
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.exe
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.xml
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.pdb
+F:\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.SplashScreen1.resources
+U:\2018\WinstanleyA\821\VBDunkin\VBDunkin\bin\Debug\VBDunkin.exe.config
+U:\2018\WinstanleyA\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.exe
+U:\2018\WinstanleyA\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.xml
+U:\2018\WinstanleyA\821\VBDunkin\VBDunkin\obj\Debug\VBDunkin.pdb
